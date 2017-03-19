@@ -4,7 +4,7 @@ A working demo of Laravel with l5starter packages installed.
 ## Screenshort
 ![screenshort](https://i.imgur.com/5HzhBPT.png)
 
-## Installed package
+## Installed packages
 * l5starter/core
 * l5starter/settings
 * l5starter/permission-manager
